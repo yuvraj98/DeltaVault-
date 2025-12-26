@@ -1,0 +1,40 @@
+# Build Directories
+build/
+out/
+bin/
+lib/
+
+# Local Storage & Test Environments
+.deltavault/
+.deltavault_test/
+test_env/
+*.restored
+*.restored.*
+
+# Visual Studio & IDEs
+.vs/
+.vscode/
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.ipch
+*.aps
+*.opendb
+
+# CMake
+CMakeSettings.json
+
+# Binaries and Object Files
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.lib
+*.dll
+*.exp
+
+# OS Generated
+Thumbs.db
+Desktop.ini
+.DS_Store
